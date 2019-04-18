@@ -14,14 +14,14 @@
 *.rar
 
 
-#Intellij
+# Intellij
 .idea
 *.iml
 dependency-reduced-pom.xml
 
-# custom folder
+# Custom folder
 target
 deprecated
 
-#Db files
+# Db files
 *.db
