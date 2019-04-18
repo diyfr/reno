@@ -1,2 +1,0 @@
-# reno
-Resources Notification Library
