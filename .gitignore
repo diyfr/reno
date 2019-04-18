@@ -14,9 +14,6 @@
 *.rar
 
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
 #Intellij
 .idea
 *.iml
@@ -25,3 +22,6 @@ dependency-reduced-pom.xml
 # custom folder
 target
 deprecated
+
+#Db files
+*.db
